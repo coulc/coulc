@@ -1,4 +1,4 @@
-# 🌟 Hi!i'm Luciuska
+# 🌟 Hello!I'm Luciuska
 - Passionate Programmer: I'm a coding enthusiast who loves exploring different programming languages and building cool projects.
 - Languages: Rust, Go, Java, Python
 # 🛠️ My Projects
