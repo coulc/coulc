@@ -2,9 +2,8 @@
 - Passionate Programmer: I'm a coding enthusiast who loves exploring different programming languages and building cool projects.
 - Languages: Rust, Go, Java, Python
 # 🛠️ My Projects
-- Project name： [Kingvim](https://github.com/Luciuska/Kingvim)
-- Project Introduction: My custom Neovim configuration, featuring powerful code completion,intelligent navigation,
-debugging, and file search functionalities.It's designed to make coding more efficient and enjoyable.
+- [Kingvim](https://github.com/Luciuska/Kingvim)
+- [violet](https://github.com/Luciuska/violet)
 # 📊  GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luciuska&show_icons=true&theme=radical)
 # 🌐 Top Languages
