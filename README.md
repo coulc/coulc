@@ -1,15 +1,7 @@
-# 🌟 Hello!I'm Luciuska
-- Passionate Programmer: I'm a coding enthusiast who loves exploring different programming languages and building cool projects.
-- Languages: Rust, Go, Java, Python
-# 🛠️ My Projects
-- [Kingvim](https://github.com/Luciuska/Kingvim)
-- [violet](https://github.com/Luciuska/violet)
-# 📊  GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luciuska&show_icons=true&theme=radical)
-# 🌐 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciuska&layout=compact&theme=radical)
-# 📈 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=Luciuska&color=blueviolet&style=flat-square)
-
-
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Luciuska&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Luciuska&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Luciuska&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
